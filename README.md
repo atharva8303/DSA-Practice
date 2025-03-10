@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/atharva8303/DSA-Practice/tree/master/0001-two-sum) |
+| [0303-range-sum-query-immutable](https://github.com/atharva8303/DSA-Practice/tree/master/0303-range-sum-query-immutable) |
 | [1603-running-sum-of-1d-array](https://github.com/atharva8303/DSA-Practice/tree/master/1603-running-sum-of-1d-array) |
 ## Hash Table
 |  |
@@ -15,5 +16,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/atharva8303/DSA-Practice/tree/master/0303-range-sum-query-immutable) |
 | [1603-running-sum-of-1d-array](https://github.com/atharva8303/DSA-Practice/tree/master/1603-running-sum-of-1d-array) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/atharva8303/DSA-Practice/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
