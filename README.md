@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/atharva8303/DSA-Practice/tree/master/0009-palindrome-number) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/atharva8303/DSA-Practice/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/atharva8303/DSA-Practice/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
 ## Two Pointers
