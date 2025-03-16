@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1603-running-sum-of-1d-array](https://github.com/atharva8303/DSA-Practice/tree/master/1603-running-sum-of-1d-array) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/atharva8303/DSA-Practice/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/atharva8303/DSA-Practice/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
+| [2665-minimum-time-to-repair-cars](https://github.com/atharva8303/DSA-Practice/tree/master/2665-minimum-time-to-repair-cars) |
 | [3324-split-the-array](https://github.com/atharva8303/DSA-Practice/tree/master/3324-split-the-array) |
 ## Hash Table
 |  |
@@ -55,4 +56,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/atharva8303/DSA-Practice/tree/master/0013-roman-to-integer) |
+## Binary Search
+|  |
+| ------- |
+| [2665-minimum-time-to-repair-cars](https://github.com/atharva8303/DSA-Practice/tree/master/2665-minimum-time-to-repair-cars) |
 <!---LeetCode Topics End-->
