@@ -26,12 +26,12 @@ class Solution {
         if(n==0||n==1)
         {return 0;}
         
-        int left[]=leftMax(height,n);
-        int right[]=rightMax(height,n);
+        int lMax[]=leftMax(height,n);
+        int rMax[]=rightMax(height,n);
         
         for(int i=0;i<n;i++)
         {
-            sum= sum+ Math.min(left[i],right[i])-height[i];
+            sum= sum+ Math.min(lMax[i],rMax[i])-height[i];
         }
         return sum;
 
