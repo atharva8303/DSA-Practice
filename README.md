@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/atharva8303/DSA-Practice/tree/master/0005-longest-palindromic-substring) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/atharva8303/DSA-Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/atharva8303/DSA-Practice/tree/master/0042-trapping-rain-water) |
 | [0283-move-zeroes](https://github.com/atharva8303/DSA-Practice/tree/master/0283-move-zeroes) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/atharva8303/DSA-Practice/tree/master/0005-longest-palindromic-substring) |
 | [0013-roman-to-integer](https://github.com/atharva8303/DSA-Practice/tree/master/0013-roman-to-integer) |
 ## Binary Search
 |  |
@@ -65,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/atharva8303/DSA-Practice/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/atharva8303/DSA-Practice/tree/master/0042-trapping-rain-water) |
 ## Stack
 |  |
