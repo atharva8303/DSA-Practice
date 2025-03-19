@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/atharva8303/DSA-Practice/tree/master/0005-longest-palindromic-substring) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/atharva8303/DSA-Practice/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/atharva8303/DSA-Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/atharva8303/DSA-Practice/tree/master/0042-trapping-rain-water) |
 | [0283-move-zeroes](https://github.com/atharva8303/DSA-Practice/tree/master/0283-move-zeroes) |
@@ -77,4 +78,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/atharva8303/DSA-Practice/tree/master/0042-trapping-rain-water) |
+## Linked List
+|  |
+| ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/atharva8303/DSA-Practice/tree/master/0019-remove-nth-node-from-end-of-list) |
 <!---LeetCode Topics End-->
