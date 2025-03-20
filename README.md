@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/atharva8303/DSA-Practice/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/atharva8303/DSA-Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/atharva8303/DSA-Practice/tree/master/0042-trapping-rain-water) |
+| [0048-rotate-image](https://github.com/atharva8303/DSA-Practice/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/atharva8303/DSA-Practice/tree/master/0053-maximum-subarray) |
 | [0238-product-of-array-except-self](https://github.com/atharva8303/DSA-Practice/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/atharva8303/DSA-Practice/tree/master/0283-move-zeroes) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/atharva8303/DSA-Practice/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/atharva8303/DSA-Practice/tree/master/0013-roman-to-integer) |
+| [0048-rotate-image](https://github.com/atharva8303/DSA-Practice/tree/master/0048-rotate-image) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/atharva8303/DSA-Practice/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/atharva8303/DSA-Practice/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
 ## Two Pointers
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/atharva8303/DSA-Practice/tree/master/0048-rotate-image) |
 | [0898-transpose-matrix](https://github.com/atharva8303/DSA-Practice/tree/master/0898-transpose-matrix) |
 ## Simulation
 |  |
