@@ -107,4 +107,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/atharva8303/DSA-Practice/tree/master/0021-merge-two-sorted-lists) |
+## Tree
+|  |
+| ------- |
+| [0832-binary-tree-pruning](https://github.com/atharva8303/DSA-Practice/tree/master/0832-binary-tree-pruning) |
+## Depth-First Search
+|  |
+| ------- |
+| [0832-binary-tree-pruning](https://github.com/atharva8303/DSA-Practice/tree/master/0832-binary-tree-pruning) |
+## Binary Tree
+|  |
+| ------- |
+| [0832-binary-tree-pruning](https://github.com/atharva8303/DSA-Practice/tree/master/0832-binary-tree-pruning) |
 <!---LeetCode Topics End-->
