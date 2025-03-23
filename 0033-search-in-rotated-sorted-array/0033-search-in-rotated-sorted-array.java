@@ -3,7 +3,7 @@ class Solution {
         int st = 0, end = nums.length - 1;
 
         while (st <= end) {
-            int mid = st + (end - st) / 2;
+            int mid = (st+end)/2;
             if (nums[mid] == tar) {
                 return mid;
             }
