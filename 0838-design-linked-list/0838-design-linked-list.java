@@ -1,4 +1,8 @@
-class MyLinkedList {
+class MyLinkedList 
+{
+  ListNode head;
+  int length = 0;
+  ListNode dummy = new ListNode(0);
   private class ListNode {
     int val;
     ListNode next;
@@ -18,10 +22,10 @@ class MyLinkedList {
   }
 
   public void addAtHead(int val) {
-    ListNode head = dummy.next;
-    ListNode node = new ListNode(val);
-    node.next = head;
-    dummy.next = node;
+    head = dummy.next;
+    ListNode newnode = new ListNode(val);
+    newnode.next = head;
+    dummy.next = newnode;
     ++length;
   }
 
@@ -57,6 +61,4 @@ class MyLinkedList {
     --length;
   }
 
-  int length = 0;
-  ListNode dummy = new ListNode(0);
 }
