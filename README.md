@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/atharva8303/DSA-Practice/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/atharva8303/DSA-Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/atharva8303/DSA-Practice/tree/master/0042-trapping-rain-water) |
+| [0086-partition-list](https://github.com/atharva8303/DSA-Practice/tree/master/0086-partition-list) |
 | [0283-move-zeroes](https://github.com/atharva8303/DSA-Practice/tree/master/0283-move-zeroes) |
 ## Counting
 |  |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/atharva8303/DSA-Practice/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/atharva8303/DSA-Practice/tree/master/0021-merge-two-sorted-lists) |
+| [0086-partition-list](https://github.com/atharva8303/DSA-Practice/tree/master/0086-partition-list) |
 | [0838-design-linked-list](https://github.com/atharva8303/DSA-Practice/tree/master/0838-design-linked-list) |
 ## Divide and Conquer
 |  |
