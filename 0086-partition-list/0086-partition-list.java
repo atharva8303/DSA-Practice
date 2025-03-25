@@ -17,23 +17,26 @@ class Solution {
         ListNode dummy2=new ListNode(-1);
         ListNode t2=dummy2;
 
-        while(head!=null){
+        ListNode curr=head;
 
-            if(head.val<x)
+        while(curr!=null){
+
+            if(curr.val<x)
             {
-                t1.next=head;
+                t1.next=curr;
                 t1=t1.next;
             }
             
             else
             {
-                t2.next=head;
+                t2.next=curr;
                 t2=t2.next;
             }
-            head=head.next;
+            curr=curr.next;
         }
         t1.next=dummy2.next;
         t2.next=null;
+
         return dummy1.next;
     }    
 }
@@ -42,11 +45,8 @@ class Solution {
     public ListNode partition(ListNode head, int x) {
         ListNode dummy = new ListNode(-1);
         ListNode currNode = head;
-        Lis
-       tNode dummyPointer = dummy; while(currNode!=null){
-            if(currNode.val<x){
-                        dummy.next = new ListNode                                        
-            }             currNode = currNode.next;           
+        while(currNode!=null){
+            if(currNode.va)             currNode = currNode.next;           
                                                 
         }
 
