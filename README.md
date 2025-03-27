@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/atharva8303/DSA-Practice/tree/master/0042-trapping-rain-water) |
 | [0086-partition-list](https://github.com/atharva8303/DSA-Practice/tree/master/0086-partition-list) |
 | [0283-move-zeroes](https://github.com/atharva8303/DSA-Practice/tree/master/0283-move-zeroes) |
+| [0908-middle-of-the-linked-list](https://github.com/atharva8303/DSA-Practice/tree/master/0908-middle-of-the-linked-list) |
 ## Counting
 |  |
 | ------- |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/atharva8303/DSA-Practice/tree/master/0021-merge-two-sorted-lists) |
 | [0086-partition-list](https://github.com/atharva8303/DSA-Practice/tree/master/0086-partition-list) |
 | [0838-design-linked-list](https://github.com/atharva8303/DSA-Practice/tree/master/0838-design-linked-list) |
+| [0908-middle-of-the-linked-list](https://github.com/atharva8303/DSA-Practice/tree/master/0908-middle-of-the-linked-list) |
 ## Divide and Conquer
 |  |
 | ------- |
