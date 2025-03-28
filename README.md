@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/atharva8303/DSA-Practice/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/atharva8303/DSA-Practice/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/atharva8303/DSA-Practice/tree/master/0048-rotate-image) |
+| [0292-nim-game](https://github.com/atharva8303/DSA-Practice/tree/master/0292-nim-game) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/atharva8303/DSA-Practice/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/atharva8303/DSA-Practice/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
 ## Two Pointers
@@ -133,4 +134,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0832-binary-tree-pruning](https://github.com/atharva8303/DSA-Practice/tree/master/0832-binary-tree-pruning) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/atharva8303/DSA-Practice/tree/master/0292-nim-game) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/atharva8303/DSA-Practice/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
