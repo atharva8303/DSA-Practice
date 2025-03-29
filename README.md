@@ -125,14 +125,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0543-diameter-of-binary-tree](https://github.com/atharva8303/DSA-Practice/tree/master/0543-diameter-of-binary-tree) |
 | [0832-binary-tree-pruning](https://github.com/atharva8303/DSA-Practice/tree/master/0832-binary-tree-pruning) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0543-diameter-of-binary-tree](https://github.com/atharva8303/DSA-Practice/tree/master/0543-diameter-of-binary-tree) |
 | [0832-binary-tree-pruning](https://github.com/atharva8303/DSA-Practice/tree/master/0832-binary-tree-pruning) |
 ## Binary Tree
 |  |
 | ------- |
+| [0543-diameter-of-binary-tree](https://github.com/atharva8303/DSA-Practice/tree/master/0543-diameter-of-binary-tree) |
 | [0832-binary-tree-pruning](https://github.com/atharva8303/DSA-Practice/tree/master/0832-binary-tree-pruning) |
 ## Brainteaser
 |  |
