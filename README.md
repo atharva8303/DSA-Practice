@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/atharva8303/DSA-Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/atharva8303/DSA-Practice/tree/master/0042-trapping-rain-water) |
 | [0086-partition-list](https://github.com/atharva8303/DSA-Practice/tree/master/0086-partition-list) |
+| [0234-palindrome-linked-list](https://github.com/atharva8303/DSA-Practice/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/atharva8303/DSA-Practice/tree/master/0283-move-zeroes) |
 | [0908-middle-of-the-linked-list](https://github.com/atharva8303/DSA-Practice/tree/master/0908-middle-of-the-linked-list) |
 ## Counting
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/atharva8303/DSA-Practice/tree/master/0042-trapping-rain-water) |
+| [0234-palindrome-linked-list](https://github.com/atharva8303/DSA-Practice/tree/master/0234-palindrome-linked-list) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/atharva8303/DSA-Practice/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/atharva8303/DSA-Practice/tree/master/0021-merge-two-sorted-lists) |
 | [0086-partition-list](https://github.com/atharva8303/DSA-Practice/tree/master/0086-partition-list) |
+| [0234-palindrome-linked-list](https://github.com/atharva8303/DSA-Practice/tree/master/0234-palindrome-linked-list) |
 | [0838-design-linked-list](https://github.com/atharva8303/DSA-Practice/tree/master/0838-design-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/atharva8303/DSA-Practice/tree/master/0908-middle-of-the-linked-list) |
 ## Divide and Conquer
@@ -122,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/atharva8303/DSA-Practice/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/atharva8303/DSA-Practice/tree/master/0021-merge-two-sorted-lists) |
+| [0234-palindrome-linked-list](https://github.com/atharva8303/DSA-Practice/tree/master/0234-palindrome-linked-list) |
 ## Tree
 |  |
 | ------- |
