@@ -132,18 +132,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/atharva8303/DSA-Practice/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/atharva8303/DSA-Practice/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/atharva8303/DSA-Practice/tree/master/0543-diameter-of-binary-tree) |
 | [0832-binary-tree-pruning](https://github.com/atharva8303/DSA-Practice/tree/master/0832-binary-tree-pruning) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/atharva8303/DSA-Practice/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/atharva8303/DSA-Practice/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/atharva8303/DSA-Practice/tree/master/0543-diameter-of-binary-tree) |
 | [0832-binary-tree-pruning](https://github.com/atharva8303/DSA-Practice/tree/master/0832-binary-tree-pruning) |
 ## Binary Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/atharva8303/DSA-Practice/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/atharva8303/DSA-Practice/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/atharva8303/DSA-Practice/tree/master/0543-diameter-of-binary-tree) |
 | [0832-binary-tree-pruning](https://github.com/atharva8303/DSA-Practice/tree/master/0832-binary-tree-pruning) |
@@ -158,5 +161,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/atharva8303/DSA-Practice/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/atharva8303/DSA-Practice/tree/master/0104-maximum-depth-of-binary-tree) |
 <!---LeetCode Topics End-->
