@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0292-nim-game](https://github.com/atharva8303/DSA-Practice/tree/master/0292-nim-game) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/atharva8303/DSA-Practice/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/atharva8303/DSA-Practice/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
+| [2871-double-a-number-represented-as-a-linked-list](https://github.com/atharva8303/DSA-Practice/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/atharva8303/DSA-Practice/tree/master/0042-trapping-rain-water) |
 | [0234-palindrome-linked-list](https://github.com/atharva8303/DSA-Practice/tree/master/0234-palindrome-linked-list) |
+| [2871-double-a-number-represented-as-a-linked-list](https://github.com/atharva8303/DSA-Practice/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0237-delete-node-in-a-linked-list](https://github.com/atharva8303/DSA-Practice/tree/master/0237-delete-node-in-a-linked-list) |
 | [0838-design-linked-list](https://github.com/atharva8303/DSA-Practice/tree/master/0838-design-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/atharva8303/DSA-Practice/tree/master/0908-middle-of-the-linked-list) |
+| [2871-double-a-number-represented-as-a-linked-list](https://github.com/atharva8303/DSA-Practice/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 ## Divide and Conquer
 |  |
 | ------- |
