@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/atharva8303/DSA-Practice/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/atharva8303/DSA-Practice/tree/master/0013-roman-to-integer) |
+| [0138-copy-list-with-random-pointer](https://github.com/atharva8303/DSA-Practice/tree/master/0138-copy-list-with-random-pointer) |
 | [3324-split-the-array](https://github.com/atharva8303/DSA-Practice/tree/master/3324-split-the-array) |
 ## Prefix Sum
 |  |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/atharva8303/DSA-Practice/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/atharva8303/DSA-Practice/tree/master/0021-merge-two-sorted-lists) |
 | [0086-partition-list](https://github.com/atharva8303/DSA-Practice/tree/master/0086-partition-list) |
+| [0138-copy-list-with-random-pointer](https://github.com/atharva8303/DSA-Practice/tree/master/0138-copy-list-with-random-pointer) |
 | [0206-reverse-linked-list](https://github.com/atharva8303/DSA-Practice/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/atharva8303/DSA-Practice/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/atharva8303/DSA-Practice/tree/master/0237-delete-node-in-a-linked-list) |
