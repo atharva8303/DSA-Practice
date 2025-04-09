@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/atharva8303/DSA-Practice/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/atharva8303/DSA-Practice/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/atharva8303/DSA-Practice/tree/master/0048-rotate-image) |
+| [0069-sqrtx](https://github.com/atharva8303/DSA-Practice/tree/master/0069-sqrtx) |
 | [0292-nim-game](https://github.com/atharva8303/DSA-Practice/tree/master/0292-nim-game) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/atharva8303/DSA-Practice/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/atharva8303/DSA-Practice/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/atharva8303/DSA-Practice/tree/master/0033-search-in-rotated-sorted-array) |
+| [0069-sqrtx](https://github.com/atharva8303/DSA-Practice/tree/master/0069-sqrtx) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/atharva8303/DSA-Practice/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [2665-minimum-time-to-repair-cars](https://github.com/atharva8303/DSA-Practice/tree/master/2665-minimum-time-to-repair-cars) |
 ## Dynamic Programming
