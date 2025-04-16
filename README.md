@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0086-partition-list](https://github.com/atharva8303/DSA-Practice/tree/master/0086-partition-list) |
 | [0234-palindrome-linked-list](https://github.com/atharva8303/DSA-Practice/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/atharva8303/DSA-Practice/tree/master/0283-move-zeroes) |
+| [0874-backspace-string-compare](https://github.com/atharva8303/DSA-Practice/tree/master/0874-backspace-string-compare) |
 | [0908-middle-of-the-linked-list](https://github.com/atharva8303/DSA-Practice/tree/master/0908-middle-of-the-linked-list) |
 ## Counting
 |  |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/atharva8303/DSA-Practice/tree/master/0005-longest-palindromic-substring) |
 | [0013-roman-to-integer](https://github.com/atharva8303/DSA-Practice/tree/master/0013-roman-to-integer) |
+| [0874-backspace-string-compare](https://github.com/atharva8303/DSA-Practice/tree/master/0874-backspace-string-compare) |
 ## Binary Search
 |  |
 | ------- |
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/atharva8303/DSA-Practice/tree/master/0042-trapping-rain-water) |
 | [0234-palindrome-linked-list](https://github.com/atharva8303/DSA-Practice/tree/master/0234-palindrome-linked-list) |
+| [0874-backspace-string-compare](https://github.com/atharva8303/DSA-Practice/tree/master/0874-backspace-string-compare) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/atharva8303/DSA-Practice/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 ## Monotonic Stack
 |  |
@@ -128,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0874-backspace-string-compare](https://github.com/atharva8303/DSA-Practice/tree/master/0874-backspace-string-compare) |
 | [0898-transpose-matrix](https://github.com/atharva8303/DSA-Practice/tree/master/0898-transpose-matrix) |
 ## Recursion
 |  |
