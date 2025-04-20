@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/atharva8303/DSA-Practice/tree/master/0005-longest-palindromic-substring) |
 | [0013-roman-to-integer](https://github.com/atharva8303/DSA-Practice/tree/master/0013-roman-to-integer) |
+| [0402-remove-k-digits](https://github.com/atharva8303/DSA-Practice/tree/master/0402-remove-k-digits) |
 | [0874-backspace-string-compare](https://github.com/atharva8303/DSA-Practice/tree/master/0874-backspace-string-compare) |
 ## Binary Search
 |  |
@@ -97,12 +98,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/atharva8303/DSA-Practice/tree/master/0042-trapping-rain-water) |
 | [0234-palindrome-linked-list](https://github.com/atharva8303/DSA-Practice/tree/master/0234-palindrome-linked-list) |
+| [0402-remove-k-digits](https://github.com/atharva8303/DSA-Practice/tree/master/0402-remove-k-digits) |
 | [0874-backspace-string-compare](https://github.com/atharva8303/DSA-Practice/tree/master/0874-backspace-string-compare) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/atharva8303/DSA-Practice/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/atharva8303/DSA-Practice/tree/master/0042-trapping-rain-water) |
+| [0402-remove-k-digits](https://github.com/atharva8303/DSA-Practice/tree/master/0402-remove-k-digits) |
 ## Linked List
 |  |
 | ------- |
@@ -178,4 +181,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/atharva8303/DSA-Practice/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/atharva8303/DSA-Practice/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/atharva8303/DSA-Practice/tree/master/0104-maximum-depth-of-binary-tree) |
+## Greedy
+|  |
+| ------- |
+| [0402-remove-k-digits](https://github.com/atharva8303/DSA-Practice/tree/master/0402-remove-k-digits) |
 <!---LeetCode Topics End-->
