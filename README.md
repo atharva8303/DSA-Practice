@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/atharva8303/DSA-Practice/tree/master/0303-range-sum-query-immutable) |
 | [0455-assign-cookies](https://github.com/atharva8303/DSA-Practice/tree/master/0455-assign-cookies) |
 | [0724-find-pivot-index](https://github.com/atharva8303/DSA-Practice/tree/master/0724-find-pivot-index) |
+| [0890-lemonade-change](https://github.com/atharva8303/DSA-Practice/tree/master/0890-lemonade-change) |
 | [0898-transpose-matrix](https://github.com/atharva8303/DSA-Practice/tree/master/0898-transpose-matrix) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/atharva8303/DSA-Practice/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1603-running-sum-of-1d-array](https://github.com/atharva8303/DSA-Practice/tree/master/1603-running-sum-of-1d-array) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0402-remove-k-digits](https://github.com/atharva8303/DSA-Practice/tree/master/0402-remove-k-digits) |
 | [0455-assign-cookies](https://github.com/atharva8303/DSA-Practice/tree/master/0455-assign-cookies) |
+| [0890-lemonade-change](https://github.com/atharva8303/DSA-Practice/tree/master/0890-lemonade-change) |
 ## Sorting
 |  |
 | ------- |
