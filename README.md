@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/atharva8303/DSA-Practice/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/atharva8303/DSA-Practice/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/atharva8303/DSA-Practice/tree/master/0134-gas-station) |
+| [0169-majority-element](https://github.com/atharva8303/DSA-Practice/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/atharva8303/DSA-Practice/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/atharva8303/DSA-Practice/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/atharva8303/DSA-Practice/tree/master/0303-range-sum-query-immutable) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/atharva8303/DSA-Practice/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/atharva8303/DSA-Practice/tree/master/0013-roman-to-integer) |
 | [0138-copy-list-with-random-pointer](https://github.com/atharva8303/DSA-Practice/tree/master/0138-copy-list-with-random-pointer) |
+| [0169-majority-element](https://github.com/atharva8303/DSA-Practice/tree/master/0169-majority-element) |
 | [3324-split-the-array](https://github.com/atharva8303/DSA-Practice/tree/master/3324-split-the-array) |
 ## Prefix Sum
 |  |
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/atharva8303/DSA-Practice/tree/master/0169-majority-element) |
 | [3324-split-the-array](https://github.com/atharva8303/DSA-Practice/tree/master/3324-split-the-array) |
 ## String
 |  |
@@ -132,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/atharva8303/DSA-Practice/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/atharva8303/DSA-Practice/tree/master/0169-majority-element) |
 ## Matrix
 |  |
 | ------- |
@@ -201,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/atharva8303/DSA-Practice/tree/master/0169-majority-element) |
 | [0435-non-overlapping-intervals](https://github.com/atharva8303/DSA-Practice/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/atharva8303/DSA-Practice/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
